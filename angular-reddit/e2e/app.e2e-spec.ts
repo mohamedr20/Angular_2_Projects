@@ -2,7 +2,7 @@ import { AngularRedditPage } from './app.po';
 
 describe('angular-reddit App', () => {
   let page: AngularRedditPage;
-
+  
   beforeEach(() => {
     page = new AngularRedditPage();
   });
